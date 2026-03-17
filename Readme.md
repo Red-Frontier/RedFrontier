@@ -8,7 +8,7 @@ Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna 
 
 ## Starting the Campaign
 
-Red Frontier is designed to be started on a fresh or early-game save. The campaign opens with Project Rubicon, which assumes no prior experience in career mode, it builds everything from scratch.
+Red Frontier is designed to be started on a fresh or early-game career mode save. The campaign opens with Project Rubicon, which assumes no prior career experience, and builds everything from scratch.
 
 If you load it into a mature save, early Rubicon missions may complete immediately based on existing vessels and technology. This is expected behavior. The campaign should advance to the appropriate point and continue normally.
 
