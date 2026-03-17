@@ -48,7 +48,7 @@ These mods are not required. The campaign works without them, but the experience
 
 ## Installation
 
-Dependencies are managed through CKAN. Install Contract Configurator, Module Manager, and any recommended mods through CKAN before proceeding.
+Dependencies are managed through CKAN. Install Contract Configurator, Module Manager, and any recommended mods through CKAN before proceeding. See the [User guide][2] to get started with CKAN.
 
 Breaking Ground DLC must be installed through Steam or your KSP storefront.
 
@@ -82,3 +82,5 @@ Chapter 1 is the foundation. Future releases will expand operations at Duna, int
 ---
 
 Red Frontier © 2026 by Benjamin Creasy is licensed under CC BY-SA 4.0 Attribution-ShareAlike 4.0 International
+
+[2]: https://github.com/KSP-CKAN/CKAN/wiki/User-guide
