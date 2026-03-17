@@ -1,6 +1,6 @@
 # Red Frontier
 
-A narrative campaign mod for Kerbal Space Program built on the Contract Configurator framework. Red Frontier augments KSP's sandbox with a structured space program — missions that build on each other, characters who comment on your progress, and infrastructure that persists and matters.
+A narrative campaign mod for Kerbal Space Program built on the Contract Configurator framework. Red Frontier augments KSP's sandbox with a structured space program. With missions that build on each other, characters who comment on your progress, and infrastructure that persists and matters.
 
 Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna system.
 
@@ -8,9 +8,9 @@ Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna 
 
 ## Starting the Campaign
 
-Red Frontier is designed to be started on a fresh or early-game save. The campaign opens with Project Rubicon, which assumes no prior infrastructure — it builds everything from scratch.
+Red Frontier is designed to be started on a fresh or early-game save. The campaign opens with Project Rubicon, which assumes no prior experience in career mode, it builds everything from scratch.
 
-If you load it into a mature save, early Rubicon missions may complete immediately based on existing vessels and technology. This is expected behavior. The campaign will advance to the appropriate point and continue normally.
+If you load it into a mature save, early Rubicon missions may complete immediately based on existing vessels and technology. This is expected behavior. The campaign should advance to the appropriate point and continue normally.
 
 ---
 
