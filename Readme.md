@@ -81,4 +81,4 @@ Chapter 1 is the foundation. Future releases will expand operations at Duna, int
 
 ---
 
-*Red Frontier is a fan-made mod for Kerbal Space Program. Not affiliated with Intercept Games or Private Division.*
+Red Frontier © 2026 by Benjamin Creasy is licensed under CC BY-SA 4.0 Attribution-ShareAlike 4.0 International
