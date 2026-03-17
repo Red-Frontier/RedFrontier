@@ -69,7 +69,7 @@ This is a playtester release. Your feedback directly shapes the final version.
 
 Please report bugs, broken contracts, dialog issues, and any moment where the campaign felt unclear or unfair. Feature requests and design opinions are also welcome.
 
-Submit a bug report{https://github.com/Red-Frontier/RedFrontier/issues} 
+Submit a bug report: https://github.com/Red-Frontier/RedFrontier/issues
 
 For contract bugs, including the contract name (visible in Mission Control) and a brief description of what went wrong is helpful.
 
