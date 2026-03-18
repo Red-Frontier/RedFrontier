@@ -5,8 +5,6 @@ A narrative campaign mod for Kerbal Space Program built on the Contract Configur
 Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna system.
 
 <img width="1492" height="837" alt="image" src="https://github.com/user-attachments/assets/f0aa57a5-78e9-4999-882d-999f4331c6b6" />
-<img width="1492" height="837" alt="image" src="https://github.com/user-attachments/assets/f0aa57a5-78e9-4999-882d-999f4331c6b6" />
-
 
 ## Starting the Campaign
 
