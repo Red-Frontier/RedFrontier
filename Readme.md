@@ -1,8 +1,9 @@
 <img width="1536" height="376" alt="image" src="https://github.com/user-attachments/assets/4586a742-7e58-4311-be00-54edef84c6db" />
-A narrative campaign mod for Kerbal Space Program built on the Contract Configurator framework. 
-Red Frontier augments KSP's sandbox with a structured space program, with missions that build on each other, characters who comment on your progress, and infrastructure that persists and matters.
+A narrative campaign mod for Kerbal Space Program built on the Contract Configurator framework. Red Frontier augments KSP's sandbox with a structured space program, with missions that build on each other, characters who comment on your progress, and infrastructure that persists and matters.
 
-Chapter 1 takes you from first orbit to a self-sustaining operation in the Duna system.
+Kerbal Space Program gives you everything you need to run a space program. What it doesn't give you is a reason to.
+
+Red Frontier doesn't replace the sandbox — it gives it direction. A structured sequence of missions with characters, stakes, and a story that builds toward something. The tools are still yours. Red Frontier just gives them somewhere to go.
 
 <img width="1492" height="837" alt="image" src="https://github.com/user-attachments/assets/f0aa57a5-78e9-4999-882d-999f4331c6b6" />
 
