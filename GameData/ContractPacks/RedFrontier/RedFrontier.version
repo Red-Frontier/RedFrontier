@@ -1,0 +1,16 @@
+{
+    "NAME": "Red Frontier",
+    "URL": "https://raw.githubusercontent.com/Red-Frontier/RedFrontier/main/RedFrontier.version",
+    "DOWNLOAD": "https://github.com/Red-Frontier/RedFrontier/releases/latest",
+    "VERSION": {
+        "MAJOR": 0,
+        "MINOR": 1,
+        "PATCH": 3,
+        "BUILD": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 5
+    }
+}
