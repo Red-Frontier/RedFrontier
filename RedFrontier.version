@@ -1,6 +1,6 @@
 {
     "NAME": "Red Frontier",
-    "URL": "https://github.com/RedFrontier/blob/master/RedFrontier/RedFrontier.version",
+    "URL": "https://raw.githubusercontent.com/Red-Frontier/RedFrontier/main/RedFrontier.version",
     "CHANGE_LOG_URL":  "https://github.com/Red-Frontier/RedFrontier/blob/main/Readme.md",
     "DOWNLOAD": "https://github.com/Red-Frontier/RedFrontier/releases/latest",
     "VERSION": {
