@@ -1,6 +1,7 @@
 {
     "NAME": "Red Frontier",
-    "URL": "https://raw.githubusercontent.com/Red-Frontier/RedFrontier/main/RedFrontier.version",
+    "URL": "https://github.com/RedFrontier/blob/master/RedFrontier/RedFrontier.version",
+    "CHANGE_LOG_URL":  "https://github.com/Red-Frontier/RedFrontier/blob/main/Readme.md",
     "DOWNLOAD": "https://github.com/Red-Frontier/RedFrontier/releases/latest",
     "VERSION": {
         "MAJOR": 0,
@@ -14,3 +15,4 @@
         "PATCH": 5
     }
 }
+https://spacedock.info/mod/4182/Red%20Frontier%20-%20Chapter%201/download
