@@ -23,7 +23,7 @@ are still yours. Red Frontier just gives them somewhere to go.
 Both Rubicon rover missions have been completely overhauled. Rubicon 8 and Rubicon 10
 now deploy fully equipped survey rovers with a scanning arm, surface scanner, and a
 complete instrument suite for seismic, thermal, and pressure measurements. Each mission
-generates randomized waypointed survey sites and requires instruments to be run at each
+generates random waypointed survey sites and requires instruments to be run at each
 location, not just anywhere in the biome.
 
 <img width="1325" height="650" alt="image" src="https://github.com/user-attachments/assets/57f6da3f-854e-49e3-876a-38d1bf60cc92" />
